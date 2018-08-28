@@ -11,3 +11,9 @@ Understand the fundamentals of Android design.
 Apply Material Design guidelines to an mobile application.
 Separate an interface into surfaces.
 Effectively use transitions and motion.
+
+Usefull Links:
+https://developer.android.com/about/dashboards/#Platform
+https://developer.android.com/topic/libraries/support-library/revisions
+https://developer.android.com/studio/releases/gradle-plugin#updating-plugin
+https://developer.android.com/studio/releases/build-tools
