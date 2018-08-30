@@ -11,6 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:fitsSystemWindows="true"
+        android:elevation="4dp"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
         <android.support.design.widget.CollapsingToolbarLayout
@@ -56,6 +57,7 @@
         android:layout_margin="16dp"
         android:scaleType="center"
         app:fabSize="normal"
+        android:elevation="6dp"
         app:pressedTranslationZ="6dp"
         app:srcCompat="@drawable/ic_share_24dp" />
 
